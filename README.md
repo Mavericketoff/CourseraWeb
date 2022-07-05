@@ -16,9 +16,7 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs :
 
-* [Module-2](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
-* [Module-3](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
-* [Module-4](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-4/index.html)
-* [Module-5](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
-# Mavericketoff-Coursera-HTML-CSS-and-JavaScript-for-Web-Developers
-# Mavericketoff-Coursera-HTML-CSS-and-JavaScript-for-Web-Developers
+* [Module-2](https://mavericketoff.github.io/CourseraWeb/Assignments/module-2/index.html)
+* [Module-3](https://mavericketoff.github.io/CourseraWeb//Assignments/module-3/index.html)
+* [Module-4](https://mavericketoff.github.io/CourseraWeb//Assignments/module-4/index.html)
+* [Module-5](https://mavericketoff.github.io/CourseraWeb//Assignments/module-5/index.html)
